@@ -1,0 +1,22 @@
+{
+  "name": "challenge_tasks",
+  "version": "1.0.0",
+  "description": "The first part of the challenge is described in a PDF document titled \"Exploratory Test\", which provides the necessary information and guidelines. This document contains essential details for completing the initial phase of the challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daanigm/challenge_tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daanigm/challenge_tasks/issues"
+  },
+  "homepage": "https://github.com/Daanigm/challenge_tasks#readme",
+  "dependencies": {
+    "cypress": "^14.1.0"
+  }
+}
