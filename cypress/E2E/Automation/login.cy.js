@@ -1,4 +1,4 @@
-describe('Login Tests', () => {
+describe('These tests include 3 of the critical possibilities that can occur at login time.', () => {
 
   it('Correct login', () => {
     cy.visit('https://qatesting-wand-stg.cpe.gigmagic.io/en', {
