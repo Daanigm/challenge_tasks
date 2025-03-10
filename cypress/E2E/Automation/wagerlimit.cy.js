@@ -1,5 +1,5 @@
-describe('wager limmits', () => {
-    it('Put a wager limit', () => {
+describe('Set wager limits from a properly logged in user', () => {
+    it('Set a wager limit from the account section', () => {
       
       cy.visit('https://qatesting-wand-stg.cpe.gigmagic.io/en', {
         auth: {
