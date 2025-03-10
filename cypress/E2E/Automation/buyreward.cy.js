@@ -1,5 +1,5 @@
-describe('rewards', () => {
-    it('buy a reward', () => {
+describe('This test corresponds to a correctly logged in user purchasing a reward correctly.', () => {
+    it('It is a successfully logged in user who purchases a reward', () => {
    
       cy.visit('https://qatesting-wand-stg.cpe.gigmagic.io/en', {
         auth: {
