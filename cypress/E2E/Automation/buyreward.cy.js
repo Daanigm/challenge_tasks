@@ -45,7 +45,7 @@ describe('rewards', () => {
       .click()
 
 
-      cy.wait(4000); // Espera 4000 milisegundos (4 segundos)
+      cy.wait(4000); 
 
  
       cy.get('#app > div.container > div > magic-ui-modal > magic-shop-details-modal')
